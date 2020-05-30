@@ -34,7 +34,7 @@
 
 ## :pushpin: Installation
 
-<pid="gomarketplace_install">Make sure you have<a href="https://nodejs.org/en/download/"> Node.js</a> installed on your computer.</p>
+<p id="gomarketplace_install">Make sure you have<a href="https://nodejs.org/en/download/"> Node.js</a> installed on your computer.</p>
 <p>Clone the repo:</p>
 
 `git clone https://github.com/msawaguchi/gostack-reactnative.git`
