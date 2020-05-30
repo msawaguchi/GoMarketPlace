@@ -1,8 +1,11 @@
 
 <p align="center">
-  <img height="300" src="http://sawastudio.me/fi44/gomarketPlace.gif">
+  <img width="200" src="http://sawastudio.me/fi44/gostack.png">
 </p>
 
+<p align="center">
+  <img  src="http://sawastudio.me/fi44/gomarketplace-git.png">
+</p>
 
  <p align="center">
     <a href="https://github.com/msawaguchi/GoMarketPlace#gomarketplace_about">About</a> • 
@@ -31,13 +34,13 @@
 
 ## :pushpin: Installation
 
-
-<p id="gomarketplace_install">Clone the repo:</p>
+<pid="gomarketplace_install">Make sure you have<a href="https://nodejs.org/en/download/"> Node.js</a> installed on your computer.</p>
+<p>Clone the repo:</p>
 
 `git clone https://github.com/msawaguchi/gostack-reactnative.git`
 
 <p>
-    Make sure that server is running: 
+    Enter inside the project directory and then make sure that server is running: 
 </p>
 
 `json-server server.json -p 3333 `
